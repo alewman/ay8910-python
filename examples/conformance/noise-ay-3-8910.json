@@ -1,0 +1,17 @@
+{
+ "version": 1,
+ "name": "noise-ay-3-8910",
+ "variant": "AY-3-8910",
+ "clocks": 8864,
+ "events": [
+  [16, "write", 8, 15],
+  [16, "write", 9, 11],
+  [16, "write", 2, 9],
+  [16, "write", 3, 0],
+  [16, "write", 7, 46],
+  [16, "write", 6, 0],
+  [976, "write", 6, 1],
+  [1937, "write", 6, 2],
+  [3859, "write", 6, 5]
+ ]
+}

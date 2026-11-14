@@ -1,0 +1,14 @@
+# ay8910-trace 1
+# port-contention-ay-3-8910 AY-3-8910
+L 0 0 0 0
+P 0 255 255
+P 16 0 0
+P 16 245 0
+P 16 245 60
+R 18 245
+R 20 0
+R 24 5
+R 26 48
+R 30 160
+R 32 28
+# end 234 clocks 15 events
