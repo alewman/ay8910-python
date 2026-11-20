@@ -1,4 +1,5 @@
 #!/usr/bin/env python
+# SPDX-License-Identifier: MIT
 """Run event streams through the core and the AY-3-8910's die model, clock by clock.
 
 A stream is a sorted list of ``(clock, kind, a, b)`` events; an event is applied

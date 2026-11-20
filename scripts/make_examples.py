@@ -1,4 +1,5 @@
 #!/usr/bin/env python
+# SPDX-License-Identifier: MIT
 """Make the conformance examples: short manifests and this core's traces of them.
 
     python scripts/make_examples.py            # write examples/conformance/

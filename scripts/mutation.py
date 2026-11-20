@@ -1,4 +1,5 @@
 #!/usr/bin/env python
+# SPDX-License-Identifier: MIT
 """Seed faults into the chip, one at a time, and check the tests catch each.
 
     python scripts/mutation.py [--jobs N] [--examples-only]

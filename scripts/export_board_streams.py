@@ -1,4 +1,5 @@
 #!/usr/bin/env python
+# SPDX-License-Identifier: MIT
 """Record the 5B's sound-port writes a program makes on famicom-python, as a stream.
 
     PYTHONDONTWRITEBYTECODE=1 PYTHONPATH=/path/to/famicom-python/src \\

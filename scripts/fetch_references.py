@@ -1,4 +1,5 @@
 #!/usr/bin/env python
+# SPDX-License-Identifier: MIT
 """Fetch the referees' sources, the detectors and the pinned documents.
 
     python scripts/fetch_references.py            # fetch what is missing

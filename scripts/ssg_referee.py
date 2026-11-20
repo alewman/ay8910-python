@@ -1,4 +1,5 @@
 #!/usr/bin/env python
+# SPDX-License-Identifier: MIT
 """Compare the Yamaha parts' waveforms with the SSG of the YM2203's die, step by step.
 
     python scripts/ssg_referee.py              # every case, YM2149 and Sunsoft 5B

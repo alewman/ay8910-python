@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MIT
 """The conformance kit: the examples still trace the same, and the formats hold."""
 
 from __future__ import annotations

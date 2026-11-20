@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MIT
 """ay8910-python: a readable, pure-Python AY-3-8910 / YM2149 / Sunsoft 5B reference core.
 
 The chip is :class:`PSG`; the parts are :data:`AY8910`, :data:`AY8912`,

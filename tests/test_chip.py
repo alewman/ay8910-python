@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MIT
 """The contract: time, the bus, the generators and the outputs (docs/contract.md).
 
 These are the chip's rules stated as tests, each one small enough to read. That

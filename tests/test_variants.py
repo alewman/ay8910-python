@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MIT
 """The parts and their DAC tables."""
 
 from __future__ import annotations

@@ -1,4 +1,5 @@
 #!/bin/sh
+# SPDX-License-Identifier: MIT
 # Build the referees from the pinned sources in reference/src/ (fetched by
 # scripts/fetch_references.py, never committed here).
 #

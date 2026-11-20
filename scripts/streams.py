@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MIT
 """Synthetic event streams for the referee (scripts/referee.py), each exercising one thing.
 
 Times are input clocks. An event is ``(clock, kind, a, b)`` with the kinds of

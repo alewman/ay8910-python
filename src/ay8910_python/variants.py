@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MIT
 """The parts built around the PSG engine, and their DAC curves.
 
 What differs between General Instrument's AY-3-8910, 8912 and 8913, Yamaha's

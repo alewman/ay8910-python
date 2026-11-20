@@ -1,4 +1,5 @@
 #!/usr/bin/env python
+# SPDX-License-Identifier: MIT
 """Ask the AY-3-8910's die model short questions at its pins, and print the answers.
 
     python scripts/probe_die.py [--only NAME] [--json FILE]

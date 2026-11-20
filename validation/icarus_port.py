@@ -1,4 +1,5 @@
 #!/usr/bin/env python
+# SPDX-License-Identifier: MIT
 """Make a copy of a Verilog file that Icarus Verilog can run: ``trireg`` to a keeper.
 
     python validation/icarus_port.py IN.v OUT.v

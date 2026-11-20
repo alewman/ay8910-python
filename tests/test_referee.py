@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MIT
 """The core against the referees, on streams short enough to run with the tests.
 
 The long runs are scripts/referee.py's and scripts/ssg_referee.py's, by hand, and

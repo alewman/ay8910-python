@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MIT
 """The conformance kit: manifests of bus events, and traces of what the chip drives.
 
 A port of this core proves itself by running each manifest in
